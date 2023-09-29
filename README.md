@@ -2,9 +2,8 @@
 app that encrypts and decrypts the selected folder and its subfolders
 
 download the below
--pip install cryptography
-
--pip install PyQt5
+--pip install cryptography,
+--pip install PyQt5
 
 after then just run
 
